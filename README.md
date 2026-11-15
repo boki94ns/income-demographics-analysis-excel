@@ -1,6 +1,6 @@
 # Income Analysis by Gender and Education Level | Excel
 
-**Data Analytics Portfolio Project — Coders Lab**
+**Data Analytics Portfolio Project**
 
 ## Project Overview
 
